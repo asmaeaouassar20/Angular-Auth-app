@@ -1,7 +1,7 @@
 # Angular Login/Logout avec LocalStorage ( Hardcoded infos )
 ## Page de Login
 - **URL :** http://localhost:4200/login
-- **Identifiants par défaut :** :
+- **Identifiants par défaut :** 
 username:user | password:password
 <div>
   <img src="https://github.com/user-attachments/assets/7a9a2e1d-7fa2-4cb9-8496-c27b78ef22bc" alt="Page de Login" style="width:500px">
